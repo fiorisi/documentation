@@ -13,6 +13,7 @@
 | v2.5 | This version has: <p>  1. Hands v2.0 <br> 2. Stronger legs (with the possibility to mount series elastic elements on the knee and on the ankle) <br>   | 
 | v2.5.5| This version is a v2.5 + a backpack for batteries | | 
 | v2.6 | v2.5.5 with new face expression (RFE master board) | |
+| v2.6.5 | v2.6 with high-performance IMU on the waist and high heel soles | |
 | v2.7 | v2.6 with high-performance IMU on the waist | |
 
 
